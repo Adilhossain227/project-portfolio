@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#050505"><title>Project Manager | Adil Hossain</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="admin.css">
+</head>
+<body>
+  <header class="site-header wrap"><a class="wordmark" href="index.html"><span class="prompt">[</span> AH <span class="prompt">]</span></a><div class="header-status"><span class="status-dot"></span> PROJECT MANAGER</div></header>
+  <main class="wrap admin-wrap">
+    <div class="eyebrow"><span class="eyebrow-line"></span> PORTFOLIO CONTENT CONTROL</div>
+    <div class="admin-title-row"><div><h1 class="admin-title">Manage<span> Projects</span></h1><p class="admin-subtitle">Add a project, make changes, then export your portfolio data.</p></div><a class="back-link" href="index.html">VIEW PORTFOLIO ↗</a></div>
+    <div class="admin-grid">
+      <section class="editor-panel">
+        <div class="panel-heading"><span id="form-mode">NEW PROJECT</span><span class="panel-index">01 / EDITOR</span></div>
+        <form id="project-form">
+          <input type="hidden" id="edit-id">
+          <label for="title">PROJECT TITLE <b>*</b></label><input id="title" required maxlength="90" placeholder="e.g. Autonomous Underwater Vehicle">
+          <label for="category">CATEGORY <span class="optional">OPTIONAL</span></label><input id="category" maxlength="50" placeholder="e.g. ROBOTICS / AUTONOMOUS SYSTEMS">
+          <label for="description">DESCRIPTION <b>*</b></label><textarea id="description" required rows="5" maxlength="1200" placeholder="What did you build? What problem does it solve?"></textarea>
+          <label for="stack">TECH STACK <span class="optional">COMMA SEPARATED</span></label><input id="stack" placeholder="Python, ROS, Raspberry Pi, OpenCV">
+          <label for="image">IMAGE URL OR PATH <span class="optional">OPTIONAL</span></label><input id="image" type="url" placeholder="https://... or assets/project.jpg"><p class="field-hint">Use an image hosted online, or add the image file to your repository and enter its relative path, such as assets/robot.jpg.</p>
+          <label for="source">SOURCE LINK <span class="optional">OPTIONAL</span></label><input id="source" type="url" placeholder="https://github.com/username/project">
+          <div class="form-actions"><button class="primary-button" type="submit" id="save-button">ADD PROJECT <span>↗</span></button><button class="quiet-button" type="button" id="reset-button">CLEAR</button></div>
+        </form>
+      </section>
+      <section class="list-panel">
+        <div class="panel-heading"><span>PROJECTS IN THIS SESSION</span><span class="panel-index" id="item-count">00 ITEMS</span></div>
+        <div id="admin-list" class="admin-list"></div>
+        <div class="export-box"><div><strong>READY TO PUBLISH?</strong><p>Export the JSON file and replace projects.json in your GitHub repository.</p></div><button id="export-button" class="export-button">EXPORT JSON ↓</button></div>
+        <label class="import-label" for="import-file">OR IMPORT AN EXISTING PROJECTS.JSON</label><input type="file" id="import-file" accept="application/json" class="file-input">
+        <p id="notice" class="notice" role="status">Your edits stay in this browser until you export them.</p>
+      </section>
+    </div>
+    <footer class="site-footer"><span>ADIL HOSSAIN <span class="muted">/ CONTENT CONTROL</span></span><span>LOCAL EDITOR <span class="muted">© 2026</span></span></footer>
+  </main>
+  <script src="admin.js"></script>
+</body>
+</html>
