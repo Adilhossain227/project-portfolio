@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "1795792308346",
+    "title": "Autonomous Underwater vehicle",
+    "category": "Robotics",
+    "description": "One of the founding team member",
+    "stack": [
+      "Python",
+      "Machine Learning",
+      "Nvidia"
+    ],
+    "image": "https://i.ytimg.com/vi/mdmfZxdvSrU/maxresdefault.jpg",
+    "source": "https://www.youtube.com/watch?v=mdmfZxdvSrU"
+  }
+]
