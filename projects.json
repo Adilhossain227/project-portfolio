@@ -3,7 +3,7 @@
     "id": "1795792308346",
     "title": "Autonomous Underwater vehicle",
     "category": "Autonomous Robotics, Underwater Systems, Compute",
-    "description": "Description\nMy underwater robotics work began through university competitions such as SAUVC and RoboSub and has grown into more than seven years of hands on engineering. I contributed to onboard machine learning, computer vision, hardware design, and team leadership. Our team placed runner up at RoboSub 2023. I also worked with NVIDIA TK, TX, and Jetson platforms, explored reinforcement learning for navigation, and developed tether communications and efficient video transmission for underwater operations.\nKey Highlights\n•\tMore than seven years of involvement in underwater robotics, beginning with SAUVC and continuing through RoboSub.\n•\tRoboSub 2023 runner up achievement.\n•\tLed work spanning onboard machine learning, computer vision, hardware design, implementation, and team coordination.\n•\tWorked with NVIDIA TK, TX, and Jetson computing platforms.\n•\tExplored reinforcement learning for navigation, alongside tether communications and efficient video transmission.",
+    "description": "My underwater robotics work began through university competitions such as SAUVC and RoboSub and has grown into more than seven years of hands on engineering. I contributed to onboard machine learning, computer vision, hardware design, and team leadership. Our team placed runner up at RoboSub 2023. I also worked with NVIDIA TK, TX, and Jetson platforms, explored reinforcement learning for navigation, and developed tether communications and efficient video transmission for underwater operations.\nKey Highlights\n•\tMore than seven years of involvement in underwater robotics, beginning with SAUVC and continuing through RoboSub.\n•\tRoboSub 2023 runner up achievement.\n•\tLed work spanning onboard machine learning, computer vision, hardware design, implementation, and team coordination.\n•\tWorked with NVIDIA TK, TX, and Jetson computing platforms.\n•\tExplored reinforcement learning for navigation, alongside tether communications and efficient video transmission.",
     "stack": [
       "NVIDIA TK",
       "NVIDIA TX",
@@ -21,7 +21,7 @@
     "id": "1795806228590",
     "title": "Nabik Automations Inc.",
     "category": "Robotics, Marine Technology, Product Development",
-    "description": "Description\nNabik Automations grew from my experience building underwater robots into a startup focused on practical marine industry problems. I founded the company to develop robotic solutions for vessel inspection and repair. My work includes product development, electromechanical component design, robot software, and rapid prototyping with 3D printing. The role combines hands on engineering with product thinking, from understanding operational challenges to developing technology for real world marine applications.\nKey Highlights\n•\tFounded an underwater robotics startup based on practical experience in the field.\n•\tDeveloping robotic products for marine vessel inspection and repair applications.\n•\tDesigned multiple electromechanical components.\n•\tContributed to robot software development and product level integration.\n•\tUsed 3D printing for prototyping and explored Lattice SDK.",
+    "description": "Nabik Automations grew from my experience building underwater robots into a startup focused on practical marine industry problems. I founded the company to develop robotic solutions for vessel inspection and repair. My work includes product development, electromechanical component design, robot software, and rapid prototyping with 3D printing. The role combines hands on engineering with product thinking, from understanding operational challenges to developing technology for real world marine applications.\nKey Highlights\n•\tFounded an underwater robotics startup based on practical experience in the field.\n•\tDeveloping robotic products for marine vessel inspection and repair applications.\n•\tDesigned multiple electromechanical components.\n•\tContributed to robot software development and product level integration.\n•\tUsed 3D printing for prototyping and explored Lattice SDK.",
     "stack": [
       "Python",
       "C",
@@ -64,7 +64,7 @@
     "id": "1795806569150",
     "title": "System on Chip Machine Learning Deployment",
     "category": "Edge AI, Computer Vision, Embedded Software",
-    "description": "Description\nThis project focused on deploying custom object detection models on resource constrained system on chip platforms. I developed machine learning models and optimized them for devices such as Raspberry Pi, targeting approximately 30 frames per second. The deployed perception system was integrated with robots so detections could inform physical actions. The work covered model development, performance optimization, and hardware integration, bringing AI out of the desktop environment and onto practical robotic platforms.\nKey Highlights\n•\tDeveloped custom object detection models.\n•\tOptimized inference for resource constrained SoC platforms, including Raspberry Pi.\n•\tTargeted approximately 30 frames per second on the deployed platform.\n•\tIntegrated perception outputs with robotic systems so detections could drive actions.\n•\tWorked across Python, C++, CUDA, and performance optimization.",
+    "description": "This project focused on deploying custom object detection models on resource constrained system on chip platforms. I developed machine learning models and optimized them for devices such as Raspberry Pi, targeting approximately 30 frames per second. The deployed perception system was integrated with robots so detections could inform physical actions. The work covered model development, performance optimization, and hardware integration, bringing AI out of the desktop environment and onto practical robotic platforms.\nKey Highlights\n•\tDeveloped custom object detection models.\n•\tOptimized inference for resource constrained SoC platforms, including Raspberry Pi.\n•\tTargeted approximately 30 frames per second on the deployed platform.\n•\tIntegrated perception outputs with robotic systems so detections could drive actions.\n•\tWorked across Python, C++, CUDA, and performance optimization.",
     "stack": [
       "Python",
       "C++",
@@ -90,7 +90,7 @@
     "id": "1795806681600",
     "title": "Reinforcement Learning in Image Processing",
     "category": "Artificial Intelligence, Machine Learning Research",
-    "description": "Description\nMy undergraduate research explored the application of reinforcement learning to image processing. I implemented learning agents and reward mechanisms, and investigated how reward bias can influence agent behaviour and results. The work combined practical experimentation with Python, CUDA, cuDNN, and neural networks. It strengthened my understanding of learning objectives and agent design, and resulted in a research paper published through IEEE.\nKey Highlights\n•\tUndergraduate research into reinforcement learning techniques for image processing.\n•\tImplemented agents and reward mechanisms for experimental evaluation.\n•\tInvestigated reward bias and its influence on agent behaviour.\n•\tWorked with Python, CUDA, cuDNN, and neural networks.\n•\tResearch publication available through IEEE.",
+    "description": "My undergraduate research explored the application of reinforcement learning to image processing. I implemented learning agents and reward mechanisms, and investigated how reward bias can influence agent behaviour and results. The work combined practical experimentation with Python, CUDA, cuDNN, and neural networks. It strengthened my understanding of learning objectives and agent design, and resulted in a research paper published through IEEE.\nKey Highlights\n•\tUndergraduate research into reinforcement learning techniques for image processing.\n•\tImplemented agents and reward mechanisms for experimental evaluation.\n•\tInvestigated reward bias and its influence on agent behaviour.\n•\tWorked with Python, CUDA, cuDNN, and neural networks.\n•\tResearch publication available through IEEE.",
     "stack": [
       "Python",
       "CUDA",
@@ -135,7 +135,7 @@
     "id": "1795806873440",
     "title": "Line Following Robot Champion",
     "category": "Robotics, Embedded Systems",
-    "description": "Description\nI designed and built a custom line following robot to navigate complex competition tracks as quickly and reliably as possible. The platform featured a custom chassis and custom PCB boards, with control logic developed using Arduino, C, and C++. The work involved integrating the electronics and mechanical design, then testing and refining the robot's response to the track. The robot won the competition by achieving the fastest completion time.\nKey Highlights\n•\tDesigned and built a custom line following robot for complex competition tracks.\n•\tDeveloped a custom chassis and PCB boards.\n•\tImplemented robot logic using Arduino, C, and C++.\n•\tWon the competition by achieving the fastest completion time.",
+    "description": "I designed and built a custom line following robot to navigate complex competition tracks as quickly and reliably as possible. The platform featured a custom chassis and custom PCB boards, with control logic developed using Arduino, C, and C++. The work involved integrating the electronics and mechanical design, then testing and refining the robot's response to the track. The robot won the competition by achieving the fastest completion time.\nKey Highlights\n•\tDesigned and built a custom line following robot for complex competition tracks.\n•\tDeveloped a custom chassis and PCB boards.\n•\tImplemented robot logic using Arduino, C, and C++.\n•\tWon the competition by achieving the fastest completion time.",
     "stack": [
       "Arduino",
       "C",
@@ -150,7 +150,7 @@
       "sensor calibration",
       "electronics prototyping."
     ],
-    "image": "",
+    "image": "https://github.com/Adilhossain227/project-portfolio/blob/main/project-images/LazyBot.jpg",
     "source": ""
   },
   {
@@ -173,7 +173,7 @@
       "sensor integration",
       "data labelling tools"
     ],
-    "image": "",
+    "image": "https://github.com/Adilhossain227/project-portfolio/blob/main/project-images/accigone-1.jpg",
     "source": ""
   },
   {
@@ -195,8 +195,8 @@
       "photogrammetry software",
       "GIS tools."
     ],
-    "image": "",
-    "source": "https://github.com/Adilhossain227/project-portfolio/blob/main/project-images/drone-project.jpeg"
+    "image": "https://github.com/Adilhossain227/project-portfolio/blob/main/project-images/drone-project.jpeg",
+    "source": ""
   },
   {
     "id": "1795807065137",
