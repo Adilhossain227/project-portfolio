@@ -14,8 +14,8 @@
       "tether communications",
       "video compression and transmission."
     ],
-    "image": "https://i.ytimg.com/vi/mdmfZxdvSrU/maxresdefault.jpg",
-    "source": "https://www.youtube.com/watch?v=mdmfZxdvSrU"
+    "image": "https://raw.githubusercontent.com/Adilhossain227/project-portfolio/main/project-images/Duburi.gif",
+    "source": "https://www.youtube.com/watch?v=yhg4OfBmSvg"
   },
   {
     "id": "1795806228590",
@@ -31,7 +31,7 @@
       "product design",
       "Lattice SDK."
     ],
-    "image": "",
+    "image": "https://raw.githubusercontent.com/Adilhossain227/project-portfolio/main/project-images/nabik.jpg",
     "source": "https://www.linkedin.com/company/nabikautomations/"
   },
   {
@@ -83,7 +83,7 @@
       "GStreamer",
       "multithreading"
     ],
-    "image": "",
+    "image": "https://raw.githubusercontent.com/Adilhossain227/project-portfolio/main/project-images/ML.jpg",
     "source": "https://youtu.be/yhg4OfBmSvg?si=TR5HjqtkDYq6s2_-&t=125"
   },
   {
@@ -128,7 +128,7 @@
       "Linux",
       "robotics middleware"
     ],
-    "image": "",
+    "image": "https://raw.githubusercontent.com/Adilhossain227/project-portfolio/main/project-images/mongoltori.jpg",
     "source": "https://bracu-mongoltori.com/"
   },
   {
@@ -150,7 +150,7 @@
       "sensor calibration",
       "electronics prototyping."
     ],
-    "image": "https://github.com/Adilhossain227/project-portfolio/blob/main/project-images/LazyBot.jpg",
+    "image": "https://raw.githubusercontent.com/Adilhossain227/project-portfolio/main/project-images/LazyBot.jpg",
     "source": ""
   },
   {
@@ -173,7 +173,7 @@
       "sensor integration",
       "data labelling tools"
     ],
-    "image": "https://github.com/Adilhossain227/project-portfolio/blob/main/project-images/accigone-1.jpg",
+    "image": "https://raw.githubusercontent.com/Adilhossain227/project-portfolio/main/project-images/accigone-1.jpg",
     "source": ""
   },
   {
@@ -195,7 +195,7 @@
       "photogrammetry software",
       "GIS tools."
     ],
-    "image": "https://github.com/Adilhossain227/project-portfolio/blob/main/project-images/drone-project.jpeg",
+    "image": "https://raw.githubusercontent.com/Adilhossain227/project-portfolio/main/project-images//drone-project.jpeg",
     "source": ""
   },
   {
@@ -216,7 +216,7 @@
       "coaxial feedlines",
       "tracking and decoding software."
     ],
-    "image": "",
-    "source": ""
+    "image": "https://raw.githubusercontent.com/Adilhossain227/project-portfolio/main/project-images/sat.jpg",
+    "source": "https://en.wikipedia.org/wiki/BRAC_Onnesha"
   }
 ]
