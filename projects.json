@@ -103,7 +103,7 @@
       "PyTorch",
       "TensorFlow."
     ],
-    "image": "",
+    "image": "https://raw.githubusercontent.com/Adilhossain227/project-portfolio/main/project-images/RL.jpg",
     "source": "https://ieeexplore.ieee.org/document/9718444/"
   },
   {
@@ -159,7 +159,7 @@
     "category": "Automotive Technology, ADAS, Applied ML",
     "description": "At acciGone, I worked on automotive safety product development, contributing to an Advanced Driver Assistance System (ADAS). My work included implementing machine learning components, training and testing custom models, and collecting datasets to support development. I used Python and TensorFlow and also contributed to UI and UX design and hardware interfacing. Gathering user feedback and applying it to interface improvements helped connect technical development with the needs of real users.\nKey Highlights\n•\tContributed to the development of an automotive safety product incorporating ADAS functionality.\n•\tImplemented machine learning components and trained and tested custom models.\n•\tCollected and prepared large datasets for model development.\n•\tWorked with Python, TensorFlow, and custom neural networks.\n•\tContributed to UI and UX design, hardware interfacing, and user feedback driven improvements.",
     "stack": [
-      ": Python",
+      "Python",
       "TensorFlow",
       "neural networks",
       "machine learning",
